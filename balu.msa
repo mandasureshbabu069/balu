@@ -1,6 +1,6 @@
 { #dev1
      void main()
-     print ( #dev1 hello)
+     print (  hello) #dev1
 }
       modify (hello balu) #dev1
 {      
