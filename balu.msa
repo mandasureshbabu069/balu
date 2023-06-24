@@ -1,6 +1,8 @@
-       {
-           void main ()
-	   print hello  
-	}
-	    modified (hello)
-}	    
+
+   {
+      void main()
+      print hello
+   }
+       modified  (hello)
+}       
+>>>>>>> a89dd80aa7a90282d0d46a8558e29da5305e2d2f
