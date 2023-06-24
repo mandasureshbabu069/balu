@@ -1,10 +1,9 @@
-<<<<<<< HEAD
-
-   { #dev2
+{ #dev1
       void main()
-      print hello #dev2
+      print hello #dev1
    }
-       modified  (hello)
-} #dev2      
+       modified  (hello) dev1
+}      
 >>>>>>> a89dd80aa7a90282d0d46a8558e29da5305e2d2f
 
+>>>>>>> c8a8dc5ac8ccdcf45731e8ba5524f45cb92c3c2e
