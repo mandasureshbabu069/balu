@@ -1,6 +1,6 @@
-   {
-      void main()
-      print hello
+   { dev1
+      void main() 
+      print hello dev1
    }
-       modified  (hello)
+       modified  (hello) dev1
 }       
